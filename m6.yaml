@@ -1,6 +1,6 @@
 ---
 mapping:
   components:
-    - name: java-springboot
-      repository: quay.io/hacbs-release-tests/java-springboot
+    - name: dc-metro-map
+      repository: quay.io/hacbs-release-tests/dcmetromap
 
